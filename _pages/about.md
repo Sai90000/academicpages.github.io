@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sai Koneru"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
