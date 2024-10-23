@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Sai koneru"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Candidate at the College of Information Sciences & Technology, Penn State"
+  location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
