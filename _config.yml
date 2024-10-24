@@ -22,10 +22,10 @@ repository               : "Sai90000/Sai90000.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sai Koneru"
+  name             : "Sai Dileep Koneru"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
+  location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
