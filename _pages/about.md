@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the [College of Information Sciences & Technology](https://ist.psu.edu/) at the **Pennsylvania State University** where I work at the [Information Integrity Lab](https://www.rajtmajerlab.net/).
+I am a doctoral candidate in the [College of Information Sciences & Technology](https://ist.psu.edu/) at the **Pennsylvania State University**, where I conduct research at the [Information Integrity Lab](https://www.rajtmajerlab.net/).
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
