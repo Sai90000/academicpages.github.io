@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I am a doctoral candidate in the [College of Information Sciences & Technology](https://ist.psu.edu/) at the **Pennsylvania State University**, where I conduct research at the [Information Integrity Lab](https://www.rajtmajerlab.net/).
+
+I am always open to new collaborations, so feel free to email me if you want to chat. If you're seeking mentorship, please send a brief email introducing yourself and the topic you're interested in.
