@@ -3,21 +3,15 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
-  background: white;
+  position: relative;
   border-bottom: 1px solid $border-color;
-  height: $masthead-height;
-  top: 0;
-  width: 100%;
-
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  -webkit-animation: $intro-transition;
+          animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
 
   &__inner-wrap {
-    @include container;
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
@@ -27,6 +21,7 @@
     display: flex;
     -webkit-box-pack: justify;
     justify-content: space-between;
+    font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -54,6 +49,19 @@
 }
 
 .masthead__menu {
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
+
+  .site-nav {
+    margin-left: 0;
+
+    @include breakpoint($small) {
+      float: right;
+    }
+  }
 
   ul {
     margin: 0;
@@ -69,7 +77,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 3em;
+    padding-right: 2em;
     font-weight: 700;
   }
 }
